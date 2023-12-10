@@ -54,8 +54,6 @@ services:
       MYSQL_ROOT_PASSWORD:
     volumes:
       - my-data:/var/lib/mysql
-      - ./database/database.sql:/docker-entrypoint-initdb.d/database.sql
-    command: [ "--init-file", "/docker-entrypoint-initdb.d/database.sql" ]
 volumes:
   redis-data:
   my-data:
