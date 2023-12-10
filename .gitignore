@@ -17,7 +17,6 @@ nba/arn-error.log
 nba/.fleet
 nba/.idea
 nba/.vscode
-nba/import
 todo.txt
 *.pdf
 .DS_store
