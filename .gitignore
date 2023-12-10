@@ -22,7 +22,6 @@ todo.txt
 *.pdf
 .DS_store
 .idea
-database/
 .php-cs-fixer.cache
 nba/package-lock.json
 nba/yarn.lock
