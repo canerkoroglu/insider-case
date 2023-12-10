@@ -47,6 +47,9 @@ seconds which means whole match will end in 240 seconds.
 8. Generate Fixture on UI
 9. Play Fixture UI, and enjoy!
 
+## Demo
+    Please see demo.mov file to watch demo.
+
 ## Other Feature Suggestions (TODO)
 1. Use team power to calculate score
 2. Use player power to calculate success rate
